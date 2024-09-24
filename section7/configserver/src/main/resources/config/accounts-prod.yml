@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  messages: "Welcome to EazyBank accounts related prod APIs"
+  contactDetails:
+    name: "Ryan Gosling - Product Owner"
+    email: "ryan@eazybank.com"
+  onCallSupport:
+    - (777) 577-1234
+    - (777) 557-1345

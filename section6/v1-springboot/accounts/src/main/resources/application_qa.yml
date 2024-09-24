@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs "
+  contactDetails:
+    name: "Selena Raynolds - QA Lead"
+    email: "selena@eazybank.com"
+  onCallSupport:
+    - (666) 566-1234
+    - (666) 599-1345
